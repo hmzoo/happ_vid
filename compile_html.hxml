@@ -1,0 +1,6 @@
+-cp src
+-lib heaps
+-main MainApp
+-js builds/html/app.js
+-D windowSize=1000x500
+
